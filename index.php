@@ -29,7 +29,7 @@
         <tbody>
           <tr> 
             <td> Atlas Forum NYC </td>
-            <td> <a href="testTag.html" target="_blank" class="btn btn-info btn-raised btn-sm">Sample Page</a> </td>
+            <td> <a href="testTag.php" target="_blank" class="btn btn-info btn-raised btn-sm">Sample Page</a> </td>
             <td> <a href="https://app.atlassolutions.com/reports/11002203013061/?company_id=11002201266394" class="btn btn-info btn-raised btn-sm" target="_blank" >Reporting</a> </td>
           </tr>
         </tbody>
